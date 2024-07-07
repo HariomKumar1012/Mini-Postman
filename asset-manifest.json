@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mini-Postman/static/css/main.e6c13ad2.css",
+    "main.js": "/Mini-Postman/static/js/main.c53a5c9d.js",
+    "static/js/453.777cd9b3.chunk.js": "/Mini-Postman/static/js/453.777cd9b3.chunk.js",
+    "index.html": "/Mini-Postman/index.html",
+    "main.e6c13ad2.css.map": "/Mini-Postman/static/css/main.e6c13ad2.css.map",
+    "main.c53a5c9d.js.map": "/Mini-Postman/static/js/main.c53a5c9d.js.map",
+    "453.777cd9b3.chunk.js.map": "/Mini-Postman/static/js/453.777cd9b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c53a5c9d.js"
+  ]
+}
