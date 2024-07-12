@@ -5,7 +5,8 @@ import { AppBar, Toolbar } from "@mui/material";
 const useStyles = makeStyles({
     logo: {
         width: 100,
-        padding: 5
+        padding: 15,
+        paddingBottom: 50
     },
     navbar: {
         background: ['#000', '!important'],

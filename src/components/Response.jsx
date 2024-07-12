@@ -30,8 +30,8 @@ const Response = ({ data }) => {
         <Box>
             <Typography mt={2} mb={2}>Response</Typography>
             <TextareaAutosize
-                minRows={3}
-                maxRows={5}
+                minRows={6}
+                maxRows={8}
                 style={textareaStyle}
                 disabled="disabled"
                 value={readableobj}

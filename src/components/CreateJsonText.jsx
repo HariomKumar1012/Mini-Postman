@@ -27,8 +27,8 @@ const CreateJsonText = () => {
         <>
             <Typography mt={2} mb={2}>JSON</Typography>
             <TextareaAutosize
-                minRows={3}
-                maxRows={5}
+                minRows={6}
+                maxRows={8}
                 style={textareaStyle}
                 onChange={(e) => onValueChange(e)}
             />
