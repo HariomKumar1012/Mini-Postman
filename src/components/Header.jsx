@@ -1,6 +1,5 @@
 
 import { makeStyles } from "@mui/styles";
-import { AppBar, Toolbar } from "@mui/material";
 
 const useStyles = makeStyles({
     logo: {
